@@ -2,7 +2,7 @@
 
 ### Data Science · AI/ML · Data Analytics · MLOps
 
-I'm a **Data Science Professional** focused on building practical solutions using **machine learning, data analytics, predictive modeling, and MLOps, live dashboardsand webapps**.
+I'm a **Data Science Professional** focused on building practical solutions using **machine learning, data analytics, predictive modeling, and MLOps, live dashboards and webapps**.
 
 I enjoy working on raw data and convert it into **insights, predictive models, and deployable applications**, with a particular interest in combining machine learning with real-world business problems.
 

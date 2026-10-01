@@ -15,7 +15,7 @@ I enjoy working on raw data and convert it into **insights, predictive models, a
 * Working with **MLOps and automated ML workflows**
 * Exploring **model deployment and explainable AI**
 * Building interactive **data dashboards and ML web applications**
-* Strengthening my skills in **Data Science, AI/ML, and Data Engineering**
+* Strengthening my skills in **Data Science & AI/ML**
 
 ---
 
@@ -28,6 +28,8 @@ A multimodal AI system designed to integrate **text, images, and structured data
 The project explores the combination of different data modalities to build more comprehensive AI-driven solutions.
 
 **Stack:** Python · TensorFlow/Keras · NLP · Computer Vision
+
+🔗 [Repository](https://github.com/FizaAnwar)
 
 ---
 
@@ -51,6 +53,7 @@ The project includes data preprocessing, exploratory data analysis, regression m
 
 **Stack:** Python · TensorFlow/Keras · Scikit-learn · Pandas · NumPy
 
+🔗 [Repository](https://github.com/FizaAnwar)
 ---
 
 ### 🔍 Explainable ML Web App
@@ -60,6 +63,8 @@ An interactive machine-learning web application designed to make model predictio
 The application focuses on bringing model interpretability closer to end users.
 
 **Stack:** Python · Streamlit · SHAP · Scikit-learn
+
+🔗 [Repository](https://github.com/FizaAnwar)
 
 ---
 
@@ -71,13 +76,15 @@ Created Power BI dashboards to provide stakeholders with self-service visibility
 
 **Stack:** Python · Pandas · Power BI · Tableau · SQL
 
+🔗 [Repository](https://github.com/FizaAnwar)
+
 ---
 
 ## 🛠️ Tech Stack
 
 ### **Languages**
 
-`Python` · `SQL` · `R` · `MATLAB`
+`Python` · `SQL` · `MATLAB`
 
 ### **Data Science & Machine Learning**
 
@@ -89,7 +96,7 @@ Created Power BI dashboards to provide stakeholders with self-service visibility
 
 ### **MLOps & Tools**
 
-`Hopsworks` · `GitHub Actions` · `Git` · `Jupyter` · `Google Colab` · `Streamlit` · `MySQL`
+`Hopsworks` · `GitHub Actions` · `Git` · `Jupyter` · `Google Colab` · `Streamlit` · `MySQL`. `PostgreSQL`
 
 ### **Core Concepts**
 
@@ -146,7 +153,7 @@ DHA Suffa University · **2026**
 
 Currently strengthening my foundations in:
 
-**Machine Learning · Deep Learning · AI · Data Analytics · MLOps · Data Engineering · Explainable AI**
+**Machine Learning · Deep Learning · AI · Data Analytics · MLOps · Data Scientist · Explainable AI**
 
 I'm particularly interested in building practical systems where **data, machine learning models, automation, and business insights come together to solve real-world problems.**
 

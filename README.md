@@ -29,7 +29,7 @@ The project explores the combination of different data modalities to build more 
 
 **Stack:** Python · TensorFlow/Keras · NLP · Computer Vision
 
-🔗 [Repository](https://github.com/FizaAnwar)
+🔗 [Repository](https://github.com/FizaAnwar/FYP-M.S.S.D-Final)
 
 ---
 
@@ -41,7 +41,7 @@ The system covers data ingestion, feature engineering, model training, model ver
 
 **Stack:** Python · Scikit-learn · Hopsworks · GitHub Actions
 
-🔗 [Repository](https://github.com/FizaAnwar)
+🔗 [Repository](https://github.com/FizaAnwar/Smart-AQI-Forecast)
 
 ---
 
@@ -65,7 +65,7 @@ The application focuses on bringing model interpretability closer to end users.
 
 **Stack:** Python · Streamlit · SHAP · Scikit-learn
 
-🔗 [Repository](https://github.com/FizaAnwar)
+🔗 [Repository](https://github.com/FizaAnwar/ExplainableMLapp)
 
 ---
 

@@ -103,15 +103,47 @@ End-to-end **California house-price prediction**: preprocessing, EDA, regression
 EDA, data cleaning, operational analytics and interactive **Power BI** dashboards that give stakeholders self-service visibility.
 **Stack:** `Python` · `Pandas` · `Power BI` · `Tableau` · `SQL`
 
-## 🧰 Architecture
+## ## 🧰 Tech Stack
 
-| Layer | Components |
-| --- | --- |
-| **Languages** | `Python` · `SQL` · `MATLAB` |
-| **ML** | `Scikit-learn` · `XGBoost` · `TensorFlow/Keras` · `Pandas` · `NumPy` |
-| **Visualization** | `Matplotlib` · `Seaborn` · `Plotly` · `Power BI` · `Tableau` · `Excel` |
-| **MLOps & Tools** | `Hopsworks` · `GitHub Actions` · `Git` · `Jupyter` · `Colab` · `Streamlit` · `MySQL` · `PostgreSQL` |
-| **Core concepts** | `EDA` · `Statistical Modeling` · `Hypothesis Testing` · `Feature Engineering` · `Model Evaluation` · `Data Cleaning` · `Predictive Analytics` |
+**Languages**<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
+
+**Machine Learning & Deep Learning**<br/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge" alt="XGBoost"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+<img src="https://img.shields.io/badge/SHAP-6C63FF?style=for-the-badge" alt="SHAP"/>
+
+**Data Analysis**<br/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+
+**Visualization & BI**<br/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+
+**MLOps & Deployment**<br/>
+<img src="https://img.shields.io/badge/Hopsworks-1EB182?style=for-the-badge" alt="Hopsworks"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+
+**Databases**<br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+
+**Environments**<br/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab"/>
+
+**Core concepts:** `EDA` · `Statistical Modeling` · `Hypothesis Testing` · `Feature Engineering` · `Model Evaluation` · `Data Cleaning` · `Predictive Analytics`
 
 ## 🏋️ Training History
 

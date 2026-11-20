@@ -43,7 +43,7 @@ Particular interests: **MLOps, explainable AI, and ML for real business problems
 - Building interactive **data dashboards and ML web applications**
 - Strengthening my skills in **Data Science & AI/ML**
 
-## 🎯 Intended Uses
+## 🎯 Usage
 
 | ✅ Works well for | 🚫 Out of scope |
 | --- | --- |
@@ -55,7 +55,7 @@ Particular interests: **MLOps, explainable AI, and ML for real business problems
 | **Explainable AI** with SHAP | Dashboards without a decision behind them |
 | **Dashboards** (Power BI, Tableau) that answer a business question | Manual retraining every week |
 
-## ⚙️ Data Science Workflow
+## ⚙️ Workflow
 
 ```text
  1. FRAME        business question → target variable → success metric
@@ -81,7 +81,7 @@ Particular interests: **MLOps, explainable AI, and ML for real business problems
                       └────────── new data ◄───────────┘
 ```
 
-## 📊 Evaluation: Projects
+## 📊 Projects
 
 ### 🌫️ Smart AQI Predictor
 Automated ML pipeline for **real-time air-quality forecasting**: data ingestion, feature engineering, training, model versioning and automated model updates.

@@ -237,4 +237,4 @@ I'm particularly interested in building practical systems where **data, machine 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6AC1,100:2DE2E6&height=100&section=footer" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:E6E6E6&height=100&section=footer" width="100%" alt=""/>

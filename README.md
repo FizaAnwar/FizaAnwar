@@ -136,8 +136,6 @@ Worked on automated ML workflows using **GitHub Actions**, while managing featur
 **BS Data Science**
 DHA Suffa University · **2026**
 
-**CGPA: 3.56 / 4.00**
-
 ---
 
 ## 📜 Certifications

@@ -171,6 +171,20 @@ EDA, data cleaning, operational analytics and interactive **Power BI** dashboard
 - Will ask "but can we explain this prediction?" in every meeting.
 - Performance degrades without a clean dataset (and chai ☕).
 - Tends to overfit on side projects when a deadline is far away.
+  
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FizaAnwar&bg_color=0D1117&color=FF6AC1&line=2DE2E6&point=FFFFFF&area=true&area_color=2DE2E6&hide_border=true&title_color=FF6AC1" alt="Fiza's GitHub activity graph" width="100%"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FizaAnwar/FizaAnwar/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FizaAnwar/FizaAnwar/output/github-snake.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/FizaAnwar/FizaAnwar/output/github-snake-dark.svg">
+</picture>
+
+</div>
 
 ## 🛣️ Next Training Run
 

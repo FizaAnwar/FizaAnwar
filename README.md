@@ -28,13 +28,13 @@ status:        deployed, still learning
 ---
 ```
 
-## 🧬 Model Description
+## 🧬 About Me
 
 A data science professional who builds **practical systems where data, models, automation and business insight meet.** I like taking raw data all the way to something people can use: **predictive models, live dashboards and deployable web apps.**
 
 Particular interests: **MLOps, explainable AI, and ML for real business problems.**
 
-## 🚀 Currently Training
+## 🚀 Currently Working on 
 
 - Building practical **Machine Learning and AI applications**
 - Developing **predictive models and data analytics solutions**
@@ -47,19 +47,38 @@ Particular interests: **MLOps, explainable AI, and ML for real business problems
 
 | ✅ Works well for | 🚫 Out of scope |
 | --- | --- |
-| End-to-end ML pipelines (ingest → features → train → version → update) | Black-box models nobody can explain |
-| Predictive modeling & time-series forecasting | Dashboards without a decision behind them |
-| Explainable ML apps (SHAP) | Manual retraining every week |
-| Power BI / Tableau dashboards for stakeholders | Dirty data, left dirty |
+| **EDA & statistical analysis**: distributions, correlations, hypothesis testing | Conclusions drawn without checking the data first |
+| **Feature engineering** & data cleaning on messy real-world data | Data leakage between train and test sets |
+| **Regression & classification** with proper model comparison (ANN vs 1D CNN, tree-based vs neural) | Reporting one metric and calling it done |
+| **Time-series forecasting** (e.g. real-time AQI) | Models that only run in one notebook |
+| **Model evaluation**: train/test splits, regression metrics, error analysis | Black-box predictions nobody can explain |
+| **Explainable AI** with SHAP | Dashboards without a decision behind them |
+| **Dashboards** (Power BI, Tableau) that answer a business question | Manual retraining every week |
 
-## ⚙️ Inference Pipeline
+## ⚙️ Data Science Workflow
 
 ```text
- raw data ──► cleaning ──► feature engineering ──► training ──► model registry ──► app / dashboard
-   scrape      pandas        Hopsworks               sklearn      versioned          Streamlit
-   APIs        EDA           feature store           Keras        auto-updated       Power BI
-                                         ▲                            │
-                                         └──── GitHub Actions ◄───────┘
+ 1. FRAME        business question → target variable → success metric
+        │
+ 2. COLLECT      scraping · SQL (MySQL, PostgreSQL) · APIs · CSV/Excel
+        │
+ 3. CLEAN        missing values · outliers · types · duplicates   (Pandas, NumPy)
+        │
+ 4. EXPLORE      EDA · distributions · correlations · hypothesis tests
+        │         (Matplotlib, Seaborn, Plotly)
+ 5. ENGINEER     feature creation · encoding · scaling · feature store (Hopsworks)
+        │
+ 6. MODEL        baseline ──► Scikit-learn / XGBoost ──► ANN · 1D CNN (Keras)
+        │
+ 7. EVALUATE     train/test split · regression metrics · model comparison
+        │
+ 8. EXPLAIN      SHAP: which features drive each prediction, and why
+        │
+ 9. DELIVER      Streamlit app · Power BI / Tableau dashboard
+        │
+10. AUTOMATE     GitHub Actions ──► retrain ──► version model ──► update app
+                      ▲                                │
+                      └────────── new data ◄───────────┘
 ```
 
 ## 📊 Evaluation: Projects

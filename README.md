@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Fiza Anwar – Data Science · AI/ML · MLOps" width="100%"/>
+<img src="banner.svg" alt="Fiza Anwar – Data Science · AI/ML · MLOps" width="100%"/>
 
 <br/>
 

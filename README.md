@@ -1,172 +1,160 @@
-# Hi, I'm Fiza Anwar 👋
+<div align="center">
 
-### Data Science · AI/ML · Data Analytics · MLOps
+<img src="assets/banner.svg" alt="Fiza Anwar – Data Science · AI/ML · MLOps" width="100%"/>
 
-I'm a **Data Science Professional** focused on building practical solutions using **machine learning, data analytics, predictive modeling, and MLOps, live dashboards and webapps**.
+<br/>
 
-I enjoy working on raw data and convert it into **insights, predictive models, and deployable applications**, with a particular interest in combining machine learning with real-world business problems.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fiza-anwar)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fizaanwar02@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/FizaAnwar)
 
----
-
-## 🚀 What I'm Working On
-
-* Building practical **Machine Learning and AI applications**
-* Developing **predictive models and data analytics solutions**
-* Working with **MLOps and automated ML workflows**
-* Exploring **model deployment and explainable AI**
-* Building interactive **data dashboards and ML web applications**
-* Strengthening my skills in **Data Science & AI/ML**
+</div>
 
 ---
 
-## 🧠 Featured Projects
+> **This profile is a model card.** Instead of a list of skills, I document myself the way I'd document a model: what I'm built for, what I was trained on, how I perform, and where I fail.
 
-### 🧠 Multimodal AI Intelligence System
-
-A multimodal AI system designed to integrate **text, images, and structured data** to support context-aware decision-making.
-
-The project explores the combination of different data modalities to build more comprehensive AI-driven solutions.
-
-**Stack:** Python · TensorFlow/Keras · NLP · Computer Vision
-
-🔗 [Repository](https://github.com/FizaAnwar/FYP-M.S.S.D-Final)
-
+```yaml
 ---
+model_id:      fiza-anwar
+version:       2026.1
+pipeline_tag:  data-scientist, ML/AI, MLOPS, data-analytics
+languages:     [python, sql, matlab, english]
+library_name:  curiosity
+base_model:    DHA Suffa University (BS Data Science, 2026)
+training_runs: [10Pearls, PIA, Bytewise]
+license:       open-to-opportunities
+status:        deployed, still learning
+---
+```
+
+## 🧬 Model Description
+
+A data science professional who builds **practical systems where data, models, automation and business insight meet.** I like taking raw data all the way to something people can use: **predictive models, live dashboards and deployable web apps.**
+
+Particular interests: **MLOps, explainable AI, and ML for real business problems.**
+
+## 🚀 Currently Training
+
+- Building practical **Machine Learning and AI applications**
+- Developing **predictive models and data analytics solutions**
+- Working with **MLOps and automated ML workflows**
+- Exploring **model deployment and explainable AI**
+- Building interactive **data dashboards and ML web applications**
+- Strengthening my skills in **Data Science & AI/ML**
+
+## 🎯 Intended Uses
+
+| ✅ Works well for | 🚫 Out of scope |
+| --- | --- |
+| End-to-end ML pipelines (ingest → features → train → version → update) | Black-box models nobody can explain |
+| Predictive modeling & time-series forecasting | Dashboards without a decision behind them |
+| Explainable ML apps (SHAP) | Manual retraining every week |
+| Power BI / Tableau dashboards for stakeholders | Dirty data, left dirty |
+
+## ⚙️ Inference Pipeline
+
+```text
+ raw data ──► cleaning ──► feature engineering ──► training ──► model registry ──► app / dashboard
+   scrape      pandas        Hopsworks               sklearn      versioned          Streamlit
+   APIs        EDA           feature store           Keras        auto-updated       Power BI
+                                         ▲                            │
+                                         └──── GitHub Actions ◄───────┘
+```
+
+## 📊 Evaluation: Projects
 
 ### 🌫️ Smart AQI Predictor
+Automated ML pipeline for **real-time air-quality forecasting**: data ingestion, feature engineering, training, model versioning and automated model updates.
+**Stack:** `Python` · `Scikit-learn` · `Hopsworks` · `GitHub Actions` · [Repo](https://github.com/FizaAnwar/Smart-AQI-Forecast)
 
-An automated machine-learning pipeline for **real-time air-quality forecasting** using environmental data.
-
-The system covers data ingestion, feature engineering, model training, model versioning, and automated model updates.
-
-**Stack:** Python · Scikit-learn · Hopsworks · GitHub Actions
-
-🔗 [Repository](https://github.com/FizaAnwar/Smart-AQI-Forecast)
-
----
-
-### 🏠 RealEstateML
-
-An end-to-end machine-learning project for **California house-price prediction**.
-
-The project includes data preprocessing, exploratory data analysis, regression modeling, and comparison of **ANN and 1D CNN architectures** using regression evaluation metrics.
-
-**Stack:** Python · TensorFlow/Keras · Scikit-learn · Pandas · NumPy
-
-🔗 [Repository](https://github.com/FizaAnwar)
-
----
+### 🧠 Multimodal AI Intelligence System
+Integrates **text, images and structured data** for context-aware decision making.
+**Stack:** `Python` · `TensorFlow/Keras` · `NLP` · `Computer Vision` · [Repo](https://github.com/FizaAnwar/FYP-M.S.S.D-Final)
 
 ### 🔍 Explainable ML Web App
+Interactive app that explains each prediction with **real-time SHAP values**, bringing interpretability closer to end users.
+**Stack:** `Python` · `Streamlit` · `SHAP` · `Scikit-learn` · [Repo](https://github.com/FizaAnwar/ExplainableMLapp)
 
-An interactive machine-learning web application designed to make model predictions more understandable through **real-time SHAP explanations**.
+### 🏠 RealEstateML
+End-to-end **California house-price prediction**: preprocessing, EDA, regression, and a comparison of **ANN vs 1D CNN** architectures.
+**Stack:** `Python` · `TensorFlow/Keras` · `Scikit-learn` · `Pandas` · `NumPy`
 
-The application focuses on bringing model interpretability closer to end users.
+### 📈 Data Analytics & BI
+EDA, data cleaning, operational analytics and interactive **Power BI** dashboards that give stakeholders self-service visibility.
+**Stack:** `Python` · `Pandas` · `Power BI` · `Tableau` · `SQL`
 
-**Stack:** Python · Streamlit · SHAP · Scikit-learn
+## 🧰 Architecture
 
-🔗 [Repository](https://github.com/FizaAnwar/ExplainableMLapp)
+| Layer | Components |
+| --- | --- |
+| **Languages** | `Python` · `SQL` · `MATLAB` |
+| **ML** | `Scikit-learn` · `XGBoost` · `TensorFlow/Keras` · `Pandas` · `NumPy` |
+| **Visualization** | `Matplotlib` · `Seaborn` · `Plotly` · `Power BI` · `Tableau` · `Excel` |
+| **MLOps & Tools** | `Hopsworks` · `GitHub Actions` · `Git` · `Jupyter` · `Colab` · `Streamlit` · `MySQL` · `PostgreSQL` |
+| **Core concepts** | `EDA` · `Statistical Modeling` · `Hypothesis Testing` · `Feature Engineering` · `Model Evaluation` · `Data Cleaning` · `Predictive Analytics` |
 
----
+## 🏋️ Training History
 
-### 📊 Data Analytics & Business Intelligence
+| Run | Role | What I learned / shipped |
+| --- | --- | --- |
+| **10Pearls** | Data Science Intern | Hopsworks Feature Store, production-oriented ML workflows, model tracking, data-quality work alongside senior data scientists |
+| **Bytewise** | Data Science Intern | Built and deployed a real-time AQI forecasting pipeline with GitHub Actions automation and Hopsworks versioning |
+| **PIA** | Data Science Intern | Data scraping, cleaning and EDA on operational data; Power BI dashboards for stakeholders |
 
-Worked on data analysis and visualization projects involving **EDA, data cleaning, operational analytics, and interactive dashboards**.
+## 🎓 Pre-training
 
-Created Power BI dashboards to provide stakeholders with self-service visibility into important operational metrics.
+**BS Data Science** · DHA Suffa University · 2026
 
-**Stack:** Python · Pandas · Power BI · Tableau · SQL
+## 📜 Checkpoints (Certifications)
 
-🔗 [Repository](https://github.com/FizaAnwar)
+- 🧠 **Prompt Engineering**: Andrew Ng / DeepLearning.AI
+- 🎓 **CS50**: Harvard University
+- 🐍 **Python Smart Pro**: Aptech Education
+- 📘 **Introduction to Python**: DataCamp
+- 🗄️ **Introduction to SQL**: DataCamp
 
----
+## ⚠️ Limitations & Known Biases
 
-## 🛠️ Tech Stack
+- Strong bias towards automating anything I have to do twice.
+- Will ask "but can we explain this prediction?" in every meeting.
+- Performance degrades without a clean dataset (and chai ☕).
+- Tends to overfit on side projects when a deadline is far away.
 
-### **Languages**
+## 🛣️ Next Training Run
 
-`Python` · `SQL` · `MATLAB`
-
-### **Data Science & Machine Learning**
-
-`Scikit-learn` · `XGBoost` · `TensorFlow/Keras` · `Pandas` · `NumPy`
-
-### **Data Analysis & Visualization**
-
-`Matplotlib` · `Seaborn` · `Plotly` · `Power BI` · `Tableau` · `Excel`
-
-### **MLOps & Tools**
-
-`Hopsworks` · `GitHub Actions` · `Git` · `Jupyter` · `Google Colab` · `Streamlit` · `MySQL`. `PostgreSQL`
-
-### **Core Concepts**
-
-`EDA` · `Statistical Modeling` · `Hypothesis Testing` · `Feature Engineering` · `Model Evaluation` · `Data Cleaning` · `Predictive Analytics`
-
----
-
-## 💼 Experience
-
-### **Data Science Intern — 10Pearls**
-
-Worked with **Hopsworks Feature Store** and contributed to production-oriented machine-learning workflows involving feature engineering and model tracking.
-
-Also performed analytical and data-quality tasks while collaborating with senior data scientists.
-
----
-
-### **Data Science Intern — Pakistan International Airlines (PIA)**
-
-Worked with operational datasets involving **data scraping, data cleaning, and exploratory data analysis**.
-
-Built interactive **Power BI dashboards** to provide stakeholders with visibility into key operational metrics.
-
----
-
-### **Data Science Intern — Bytewise**
-
-Built and deployed a Python-based **real-time AQI predictive modeling pipeline** for time-series forecasting.
-
-Worked on automated ML workflows using **GitHub Actions**, while managing feature engineering and model versioning through **Hopsworks**.
-
----
-
-## 🎓 Education
-
-**BS Data Science**
-DHA Suffa University · **2026**
-
----
-
-## 📜 Certifications
-
-* **Prompt Engineering** — Andrew Ng / DeepLearning.AI
-* **CS50** — Harvard University
-* **Python Smart Pro Course** — Aptech Education
-* **Introduction to Python** — DataCamp
-* **Introduction to SQL** — DataCamp
-
----
+- [ ] Deepen **MLOps**: monitoring, drift detection, CI/CD for models
+- [ ] Go further with **deep learning & explainable AI**
+- [ ] Ship more **deployed apps**, not just notebooks
+- [ ] Land a role where data meets real business problems
 
 ## 📌 Learning & Interests
 
-Currently strengthening my foundations in:
-
-**Machine Learning · Deep Learning · AI · Data Analytics · MLOps · Data Scientist · Explainable AI**
+Currently strengthening my foundations in **Machine Learning · Deep Learning · AI · Data Analytics · MLOps · Explainable AI**.
 
 I'm particularly interested in building practical systems where **data, machine learning models, automation, and business insights come together to solve real-world problems.**
 
+## 📚 Citation
+
+```bibtex
+@misc{anwar2026,
+  author = {Fiza Anwar},
+  title  = {Turning Data into Insights, Models, and Practical AI Solutions},
+  year   = {2026},
+  url    = {https://github.com/FizaAnwar}
+}
+```
+
 ---
 
-## 📫 Let's Connect
+<div align="center">
 
-* **LinkedIn:** [linkedin.com/in/fiza-anwar](https://www.linkedin.com/)
-* **Portfolio:** [My Portfolio](https://github.com/FizaAnwar)
-* **GitHub:** [github.com/FizaAnwar](https://github.com/FizaAnwar)
-* **Email:** [fizaanwar02@gmail.com](mailto:fizaanwar02@gmail.com)
+**Open to internships, collaborations and interesting data problems.**
 
----
+`inference_endpoint:` [fizaanwar02@gmail.com](mailto:fizaanwar02@gmail.com)
 
 > Turning data into insights, models, and practical AI solutions.
 >
 > **Build. Analyze. Learn. Repeat. 🚀**
+
+</div>

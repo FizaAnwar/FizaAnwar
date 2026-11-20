@@ -212,7 +212,20 @@ I'm particularly interested in building practical systems where **data, machine 
 
 ---
 
+
+## 💡 Random Dev Quote
+
 <div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect and Build Something Amazing!
 
 **Open to internships, collaborations and interesting data problems.**
 
@@ -223,3 +236,5 @@ I'm particularly interested in building practical systems where **data, machine 
 > **Build. Analyze. Learn. Repeat. 🚀**
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6AC1,100:2DE2E6&height=100&section=footer" width="100%" alt=""/>

@@ -85,19 +85,19 @@ Particular interests: **MLOps, explainable AI, and ML for real business problems
 
 ### 🌫️ Smart AQI Predictor
 Automated ML pipeline for **real-time air-quality forecasting**: data ingestion, feature engineering, training, model versioning and automated model updates.
-**Stack:** `Python` · `Scikit-learn` · `Hopsworks` · `GitHub Actions` · [Repo](https://github.com/FizaAnwar/Smart-AQI/)
+**Stack:** `Python` · `Scikit-learn` · `Hopsworks` · `GitHub Actions` · [Repository](https://github.com/FizaAnwar/Smart-AQI/)
 
 ### 🧠 Multimodal AI Intelligence System
 Integrates **text, images and structured data** for context-aware decision making.
-**Stack:** `Python` · `TensorFlow/Keras` · `NLP` · `Computer Vision` · [Repo](https://github.com/FizaAnwar/FYP-M.S.S.D-Final)
+**Stack:** `Python` · `TensorFlow/Keras` · `NLP` · `Computer Vision` · [Repository](https://github.com/FizaAnwar/FYP-M.S.S.D-Final)
 
 ### 🔍 Explainable ML Web App
 Interactive app that explains each prediction with **real-time SHAP values**, bringing interpretability closer to end users.
-**Stack:** `Python` · `Streamlit` · `SHAP` · `Scikit-learn` · [Repo](https://github.com/FizaAnwar/ExplainableMLapp)
+**Stack:** `Python` · `Streamlit` · `SHAP` · `Scikit-learn` · [Repository](https://github.com/FizaAnwar/ExplainableMLapp)
 
 ### 🏠 RealEstateML
 End-to-end **California house-price prediction**: preprocessing, EDA, regression, and a comparison of **ANN vs 1D CNN** architectures.
-**Stack:** `Python` · `TensorFlow/Keras` · `Scikit-learn` · `Pandas` · `NumPy`[Repo](https://github.com/FizaAnwar/RealEstateML)
+**Stack:** `Python` · `TensorFlow/Keras` · `Scikit-learn` · `Pandas` · `NumPy`[Repository](https://github.com/FizaAnwar/RealEstateML)
 
 ### 📈 Data Analytics & BI
 EDA, data cleaning, operational analytics and interactive **Power BI** dashboards that give stakeholders self-service visibility.

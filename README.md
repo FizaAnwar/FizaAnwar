@@ -85,7 +85,7 @@ Particular interests: **MLOps, explainable AI, and ML for real business problems
 
 ### 🌫️ Smart AQI Predictor
 Automated ML pipeline for **real-time air-quality forecasting**: data ingestion, feature engineering, training, model versioning and automated model updates.
-**Stack:** `Python` · `Scikit-learn` · `Hopsworks` · `GitHub Actions` · [Repo](https://github.com/FizaAnwar/Smart-AQI-Forecast)
+**Stack:** `Python` · `Scikit-learn` · `Hopsworks` · `GitHub Actions` · [Repo](https://github.com/FizaAnwar/Smart-AQI/)
 
 ### 🧠 Multimodal AI Intelligence System
 Integrates **text, images and structured data** for context-aware decision making.

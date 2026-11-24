@@ -97,7 +97,7 @@ Interactive app that explains each prediction with **real-time SHAP values**, br
 
 ### 🏠 RealEstateML
 End-to-end **California house-price prediction**: preprocessing, EDA, regression, and a comparison of **ANN vs 1D CNN** architectures.
-**Stack:** `Python` · `TensorFlow/Keras` · `Scikit-learn` · `Pandas` · `NumPy`
+**Stack:** `Python` · `TensorFlow/Keras` · `Scikit-learn` · `Pandas` · `NumPy`[Repo](https://github.com/FizaAnwar/RealEstateML)
 
 ### 📈 Data Analytics & BI
 EDA, data cleaning, operational analytics and interactive **Power BI** dashboards that give stakeholders self-service visibility.
